@@ -1,7 +1,7 @@
 # Sprint_5
 Final project of fifth sprint on "Python QA automation" course
 
-conftest.py - содержит фикстуру подключения драйвера Chrome 
+conftest.py - лежит в tests, содержит фикстуру подключения драйвера Chrome 
 elements_locators.py - использованные в ходе тестов локаторы
 user_data_gen.py - генератор логинов и паролей
 test_account_access.py - проверка входа в раздел "Личный кабинет
